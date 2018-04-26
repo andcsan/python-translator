@@ -1,6 +1,6 @@
 # Python Translator
 
-Traduz automaticamente o texto na área de transferência.
+Traduz automaticamente o texto da área de transferência.
 Tradução do português para o inglês.
 
 ## Dependências
