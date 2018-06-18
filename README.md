@@ -1,7 +1,7 @@
 # Python Translator
 
 Traduz automaticamente o texto da área de transferência.
-Tradução do português para o inglês.
+Autodetecta a língua e traduz do português para o inglês ou vice-versa.
 
 ## Dependências
 
